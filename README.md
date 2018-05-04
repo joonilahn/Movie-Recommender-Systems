@@ -30,5 +30,6 @@ The MovieLens dataset has been collected by the GroupLens Research Project at th
 - Genres of movies
 
 The *u.data* file contains movie ratings information which were rated by the users.
+
 <img src='https://www.analyticsvidhya.com/wp-content/uploads/2016/06/2.-ratings.png', width=480>
 
